@@ -1,0 +1,19 @@
+.counter{
+    font-size: 30px;
+}
+.botonMas{
+    font-size: 30px;
+}
+.botonMas:hover{
+    background-color: green;
+}
+.botonMenos{
+    font-size: 30px;
+    margin-right: 10px;
+}
+.botonMenos:hover{
+    background-color: red;
+}
+.Form{
+    margin-left: 30px;
+}
